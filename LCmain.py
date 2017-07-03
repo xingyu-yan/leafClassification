@@ -1,7 +1,7 @@
 '''
 Created on December 3, 2016
 @author: xingyu, at Ecole Centrale de Lille
-# This programme is for PV power forecasting with ANN
+# This program is for leaf classification by using Neural networks.
 # reference: Coursera Machine Learning open course (Andrew Ng)
 # reference: https://www.kaggle.com/c/leaf-classification
 '''
